@@ -1,0 +1,18 @@
+#The-Canvas {
+    Border-Width : 5 ;
+    Border-Style : Solid ;
+    Border-Color : Black ;
+    Height : 450 ;
+    Width : 900;
+}
+#Error-Note {
+    Color : #cc0000 ;
+}
+.White-Text {
+    Color : #ffffff ;
+}
+Body {
+    Background-Image : url("https://i.postimg.cc/KzWwHPcq/racing.gif") ;
+    Background-Position : Center ;
+    Background-Size : Cover ;
+}
